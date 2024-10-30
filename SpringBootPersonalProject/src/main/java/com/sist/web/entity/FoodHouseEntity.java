@@ -28,5 +28,5 @@ import jakarta.persistence.Entity;
 public interface FoodHouseEntity {
 //	private int fno;
 //	private int jjimcount, likecount, replycount;
-//	private String 
+//	private String dasdsa
 }
